@@ -59,7 +59,7 @@ Atualmente cursando o 1º período de Engenharia de Software na Universidade Cid
 | :--- | :--- | :---: |
 | **Corrida de Prompt** | Projeto criado para avaliar e comparar o desempenho de diferentes modelos de Inteligência Artificial por meio da elaboração e execução de prompts em cenários práticos.. | [Ver Projeto](./corrida_de_prompt/) |
 | **Classificação Visual** | Projeto voltado à classificação de imagens com Inteligência Artificial, utilizando técnicas de reconhecimento de padrões visuais para identificar e categorizar elementos de forma automatizada.. | [Ver Projeto](./classificacao_visual/) | 
-| **Batalha de modelos** | Projeto criado para comparar o desempenho de diferentes modelos de Inteligência Artificial, avaliando precisão, eficiência e qualidade das respostas em múltiplos testes | [Ver Projeto](./Batalha de Modelos/) | 
+| **Batalha de modelos** | Projeto criado para comparar o desempenho de diferentes modelos de Inteligência Artificial, avaliando precisão, eficiência e qualidade das respostas em múltiplos testes | [Ver Projeto](./batalha_de_modelos/) | 
 | **Engenharia Reversa** | Projeto voltado à análise e reconstrução de processos utilizando Inteligência Artificial, explorando padrões, estruturas e funcionamento de sistemas e conteúdos digitais. | [Ver Projeto](./projeto-ia-churn/) | 
 | **Engenharia Reversa + MVP** | Projeto voltado a melhorar a duplicagem que fizemos na Engenharia reversa. | [Ver Projeto](./projeto-ia-churn/) | 
 
