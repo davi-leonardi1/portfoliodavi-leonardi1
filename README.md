@@ -57,7 +57,7 @@ Atualmente cursando o 1º período de Engenharia de Software na Universidade Cid
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Corrida de Prompt** | Projeto desenvolvido para testar e comparar a capacidade de diferentes modelos de Inteligência Artificial por meio da criação e execução de prompts em cenários práticos. | [Ver Projeto](./projeto-ia-churn/) |
+| **Corrida de Prompt** | Projeto criado para avaliar e comparar o desempenho de diferentes modelos de Inteligência Artificial por meio da elaboração e execução de prompts em cenários práticos.. | [Ver Projeto](./corrida_de_prompt/) |
 | **Classificação Visual** | Projeto focado em classificação de imagens com Inteligência Artificial, utilizando reconhecimento de padrões visuais para identificar e categorizar elementos automaticamente. | [Ver Projeto](./projeto-ia-churn/) | 
 | **Batalha de modelos** | Projeto criado para comparar o desempenho de diferentes modelos de Inteligência Artificial, avaliando precisão, eficiência e qualidade das respostas em múltiplos testes | [Ver Projeto](./projeto-ia-churn/) | 
 | **Engenharia Reversa** | Projeto voltado à análise e reconstrução de processos utilizando Inteligência Artificial, explorando padrões, estruturas e funcionamento de sistemas e conteúdos digitais. | [Ver Projeto](./projeto-ia-churn/) | 
